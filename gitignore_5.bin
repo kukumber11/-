@@ -1,0 +1,18 @@
+# Файл с сохраненными книгами пользователя
+books.json
+
+# Кэш и служебные файлы Python
+__pycache__/
+*.pyc
+venv/
+dist/
+build/
+*.spec
+
+# Настройки IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Системные файлы macOS/Windows
+.DS_Store
+Thumbs.db
